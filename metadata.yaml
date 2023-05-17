@@ -1,0 +1,35 @@
+_repo: The-black-alarm_70605
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, George O. (George Oliver)
+    aliases:
+    - Smith, George Oliver
+    - Long, Wesley
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '8137'
+    url: http://www.gutenberg.org/2009/agents/8137
+    wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
+description: ''
+gutenberg_issued: '2023-04-20'
+identifiers:
+  gutenberg: '70605'
+language: en
+pgterms:marc905: 20220527173730smith
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Stepfathers -- Fiction'
+- !lcsh 'Stepchildren -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The black alarm
+url: http://www.gutenberg.org/ebooks/70605
