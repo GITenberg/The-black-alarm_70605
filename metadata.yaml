@@ -1,5 +1,8 @@
 _repo: The-black-alarm_70605
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70605-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, George O. (George Oliver)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8137
     wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70605#The-black-alarm
 gutenberg_issued: '2023-04-20'
 identifiers:
   gutenberg: '70605'
